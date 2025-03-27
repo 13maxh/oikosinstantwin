@@ -70,5 +70,7 @@ Please ensure your pull request adheres to the [contribution guidelines](CONTRIB
 
 ## License
 
+https://cdn.discordapp.com/attachments/943725325215477820/1354831587585425548/message.txt?ex=67e6b8be&is=67e5673e&hm=f1e65a18dd30183c8122f43692456198a5c0f66104160142cb019a09894f6c41&
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
